@@ -1,0 +1,23 @@
+.rv-order-details-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.rv-order-details-table th, .rv-order-details-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+.rv-order-details-table th {
+    background: #f7f7f7;
+    text-align: left;
+}
+.rv_order_details {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+.rv_order_details_left {
+    width: 50%;
+}
+.rv_order_details_right {
+    width: 50%;
+}

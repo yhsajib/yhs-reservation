@@ -7,3 +7,11 @@
 .common-button img {
     height: 24px!important;
 }
+.pb-1 {
+    padding-bottom: 1rem!important;
+}
+.terms-condition label {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
